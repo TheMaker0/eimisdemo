@@ -2,7 +2,6 @@
 
 A clean and intuitive management information system dashboard for tracking organizational inventory, suppliers, and transaction analytics.
 
-![Dashboard Preview](image_a0ca31.png)
 <img width="1904" height="912" alt="image" src="https://github.com/user-attachments/assets/be8b97a1-654d-4a3f-9439-66b34542751e" />
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/a16e43a4-2ad2-4215-a767-ef826fcda64d" />
 <img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/aa25868c-961b-4566-9391-f5129556cbfb" />
